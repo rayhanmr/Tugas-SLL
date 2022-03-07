@@ -1,5 +1,5 @@
 # Tugas-SLL
 
-Nama  : Rayhan M. Rizki;
-Npm   : G1A021083;
-Kelas : A;
+Nama  : Rayhan M. Rizki\n
+Npm   : G1A021083
+Kelas : A
